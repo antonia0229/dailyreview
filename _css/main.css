@@ -1,0 +1,26 @@
+h1 {
+    color:white;
+    background-color:grey;
+    padding:20px 20px 20px 10px;
+}
+
+h2 {
+    color:white;
+    background-color:grey;
+    padding:20px 20px 20px 10px;
+}
+
+h3 {
+    color:grey;
+    padding:20px 20px 20px 10px;
+}
+
+body {
+    width:800px;
+    
+}
+
+p {
+    background-color:lightgrey;
+    padding:20px 20px 20px 10px;
+}
